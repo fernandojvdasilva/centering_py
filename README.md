@@ -8,3 +8,5 @@ For a detailed description about these algorithms and the experiments, please re
 The project is composed by code to open an input from the Summ-it corpus, which can be found at http://www.inf.pucrs.br/~linatural/procacosa.html. 
 
 As this code was firstly developed aiming experimental research only, it hasn't received any peer code review up to now, so I appreciate any review or test case contribution! :-)
+
+PS: It was tested only for Portuguese
